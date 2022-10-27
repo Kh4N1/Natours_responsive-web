@@ -4,7 +4,7 @@ Exciting tours for adventurous people | This project is for practicing responsiv
 ## Setup
 To properly implement this project and display logos, install it locally using npm:
 ```
-$ cd ../trillo
+$ cd ../Natours
 $ npm install
 $ npm start
 ```
